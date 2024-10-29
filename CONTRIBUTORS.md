@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+### Name: [Sahil Waje](https://github.com/sahilwaje23)
+- Place: India
+- Bio- Student
+- Github: [Sahil Waje](https://github.com/sahilwaje23)
